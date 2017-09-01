@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/2.Scripts/Timing/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/2.Scripts/Timing/FFTimingGameManager.cs" Line="72" Column="40" />
+      <File FileName="Assets/2.Scripts/Timing/MovingMap.cs" Line="53" Column="13" />
+      <File FileName="Assets/2.Scripts/BulletSpawner.cs" Line="107" Column="7" />
+      <File FileName="Assets/2.Scripts/EnemyFiring.cs" Line="13" Column="1" />
+      <File FileName="Assets/2.Scripts/Timing/PlayerController.cs" Line="210" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

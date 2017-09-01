@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{23E49F52-E70B-9C6E-F83E-91AC08507DDA}") = "GoFlipFlopTiming", "Assembly-CSharp-firstpass.csproj", "{C8305F51-F2DE-C4A1-E350-468B3A8C6CD9}"
+EndProject
+Project("{23E49F52-E70B-9C6E-F83E-91AC08507DDA}") = "GoFlipFlopTiming", "Assembly-CSharp.csproj", "{5D106D4F-CCF3-9D88-5FDC-ADA716895A25}"
+EndProject
+Project("{23E49F52-E70B-9C6E-F83E-91AC08507DDA}") = "GoFlipFlopTiming", "Assembly-CSharp-Editor-firstpass.csproj", "{30B217CC-A951-57D2-D092-35D77786B37B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8305F51-F2DE-C4A1-E350-468B3A8C6CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8305F51-F2DE-C4A1-E350-468B3A8C6CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8305F51-F2DE-C4A1-E350-468B3A8C6CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8305F51-F2DE-C4A1-E350-468B3A8C6CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D106D4F-CCF3-9D88-5FDC-ADA716895A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D106D4F-CCF3-9D88-5FDC-ADA716895A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D106D4F-CCF3-9D88-5FDC-ADA716895A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D106D4F-CCF3-9D88-5FDC-ADA716895A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B217CC-A951-57D2-D092-35D77786B37B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B217CC-A951-57D2-D092-35D77786B37B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B217CC-A951-57D2-D092-35D77786B37B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B217CC-A951-57D2-D092-35D77786B37B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
